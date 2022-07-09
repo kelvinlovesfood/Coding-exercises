@@ -1,3 +1,9 @@
-# coding_exercises
+# Coding exercises
 
-Coding exercises for week 4 portfolio
+## English
+
+Java coding exercises for week 4 portfolio
+
+## Français
+
+Exercices de codage en java
